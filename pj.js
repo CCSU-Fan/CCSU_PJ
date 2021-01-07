@@ -17,7 +17,7 @@ var Lists = document.getElementsByTagName("input");//获取所有input组件
 		
 	}
 
-document.getElementById("tj").onclick();//触发提交函数
+//document.getElementById("tj").onclick();//触发提交函数
 
 var Lists = document.getElementsByTagName("input");//获取所有input组件
 	for (i=0; i<Lists.length; i++) {
